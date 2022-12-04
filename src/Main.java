@@ -23,11 +23,11 @@ public class Main {
 
 
         // третья часть задания
-        dog -= 3.5;
+        var dog1 = dog - 3.5;
         cat -=1.6;
         paper -= 7639;
         System.out.println("Третья часть задания");
-        System.out.println(dog);
+        System.out.println(dog1);
         System.out.println(cat);
         System.out.println(paper);
     }
